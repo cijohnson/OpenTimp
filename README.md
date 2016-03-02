@@ -1,4 +1,4 @@
-timp
+OpenTimp
 ====
 
 Test Information Management Portal
